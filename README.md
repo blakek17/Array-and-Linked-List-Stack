@@ -1,5 +1,5 @@
 # Array-and-Linked-List-Stack
-Array-based and linked-list-based stack ADT classes and test program. Written in fall of 2019 as an academic project.
+Array-based and linked-list-based stack classes and test program.
 
 These programs were developed collaboratively with a fellow student as an academic project. show6.cpp and test6.cpp were provided by the instructor.
 
